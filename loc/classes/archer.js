@@ -13,7 +13,8 @@ export default {
     nl: 'Boogschutter',
     ro: 'Arcaș',
     zh: '弓箭手',
-    hu: 'Vadász'
+    hu: 'Vadász',
+    pl: 'Łucznik'
   },
 
   // Class description, visible during character creation
